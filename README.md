@@ -5,6 +5,7 @@ Hi there! I'm Bia, and I am passionate about data, technology, and continuous le
 ## 🎓 Education
 - **Undergraduate in Statistics and Data Science** at UFPR (Federal University of Paraná)  
 - **Technical Course in Information Technology** at UEPG (State University of Ponta Grossa)
+- **Member of PET Estatística (UFPR)**: Engaged in academic and community-based projects related to statistics and data science.
 
 ## 💻 Current Focus
 I am currently focusing on developing my skills in:
