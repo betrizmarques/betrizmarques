@@ -6,6 +6,7 @@ Hi there! I'm Bia, and I am passionate about data, technology, and continuous le
 - **Undergraduate in Statistics and Data Science** at UFPR (Federal University of Paraná)  
 - **Technical Course in Information Technology** at UEPG (State University of Ponta Grossa)
 
+## 💻 Current Focus
 I am currently focusing on developing my skills in:
 - **Python Programming**: Especially for automation, data analysis, and machine learning.  
 - **R Programming**: Learning R for statistical analysis and data visualization.  
