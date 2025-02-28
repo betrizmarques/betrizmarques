@@ -19,17 +19,6 @@ I am currently focusing on developing my skills in:
 - **Programming**: Python (beginner to intermediate, actively improving), R (intermediate, focusing on data manipulation and visualization).
 - **Statistics**: Building a strong foundation in statistical analysis for decision-making.
 
-## 📈 Goals
-- Apply statistical and programming knowledge to solve complex real-world problems.
-- Contribute to real-world projects, particularly in **machine learning** and **data analysis**.
-- Explore academic and professional opportunities in **data science** and **statistics**.
-
-## 🌟 Fun Facts
-- I love solving logic problems and enjoy challenges that make me think critically, such as **crossword puzzles**.
-- I enjoy reading **philosophy books** to broaden my perspectives.
-- Music is essential for my focus and creativity.
-- I juggle multiple responsibilities as a student in two universities and a part-time worker, but I’m always eager to learn and grow.
-
 ## 📫 Let's Connect!
 Feel free to reach out or connect with me:
 - **Email**: beatrizda@ufpr.br / absilvamarques@gmail.com  
