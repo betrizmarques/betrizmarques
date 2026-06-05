@@ -1,6 +1,17 @@
 # Welcome!
 
-<img src="foto_perfil.jpeg" align="left" height="400" style="margin-right: 20px;"/> Hi there! I'm Bia, and I am passionate about data, technology, mathematics and continuous learning. Here's a little more about me:
+<img src="foto_perfil.jpeg" align="left" height="100" style="margin-right: 20px;"/>
+
+Hi there! I'm Bia, and I am passionate about data, technology, mathematics and continuous learning. 
+I am currently focused on data manipulation and data visualization for road safety researches at UFPR. 
+I also participate in a lot of competitions in the statistics field, PET Estatística and research groups.
+\
+\
+Here is a little more about me:
+
+\
+\
+\
 
 ## Education
 
