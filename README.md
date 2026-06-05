@@ -8,10 +8,6 @@ I also participate in a lot of competitions in the statistics field, PET Estatí
 \
 \
 Here is a little more about me:
-\
-\
-\
-
 ## Education
 
 -   I'm currently working on my bachelor's degree in **Statistics and Data Science** at UFPR (Federal University of Paraná).
