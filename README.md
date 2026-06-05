@@ -21,4 +21,4 @@ Here is a little more about me:
 
 -   **Python**: Intermediate. Focused on Machine Learning Models.
 
--   **Email**: [beatrizda\@ufpr.br](mailto:beatrizda@ufpr.br){.email} / [absilvamarques\@gmail.com](mailto:absilvamarques@gmail.com){.email}
+-   **Email**: [beatrizda\@ufpr.br](mailto:beatrizda@ufpr.br) / [absilvamarques\@gmail.com](mailto:absilvamarques@gmail.com)
