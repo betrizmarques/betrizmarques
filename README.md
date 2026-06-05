@@ -1,6 +1,6 @@
 # Welcome!
 
-<img src="/Users/anabeatrizmarques/Documents/pessoal/foto_perfil.jpeg" align="left" height="400" style="margin-right: 20px;"/> Hi there! I'm Bia, and I am passionate about data, technology, mathematics and continuous learning. Here's a little more about me:
+<img src="foto_perfil.jpeg" align="left" height="400" style="margin-right: 20px;"/> Hi there! I'm Bia, and I am passionate about data, technology, mathematics and continuous learning. Here's a little more about me:
 
 ## Education
 
