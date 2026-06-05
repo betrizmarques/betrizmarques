@@ -8,7 +8,6 @@ I also participate in a lot of competitions in the statistics field, PET Estatí
 \
 \
 Here is a little more about me:
-
 \
 \
 \
