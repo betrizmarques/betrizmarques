@@ -18,7 +18,6 @@ Here is a little more about me:
 ## Programming Languages
 
 -   **R**: Advanced. Focused on data visuzalization and Shiny dashboards.
-
 -   **Python**: Intermediate. Focused on Machine Learning Models.
 
 ## Contact
