@@ -17,8 +17,8 @@ Here is a little more about me:
 
 ## Programming Languages
 
--   **R**: Advanced. Focus on data visuzalization and Shiny dashboards.
+-   **R**: Advanced. Focused on data visuzalization and Shiny dashboards.
 
--   **Python**: Intermediate. Focus on Mschine Learning Models.
+-   **Python**: Intermediate. Focused on Machine Learning Models.
 
 -   **Email**: [beatrizda\@ufpr.br](mailto:beatrizda@ufpr.br){.email} / [absilvamarques\@gmail.com](mailto:absilvamarques@gmail.com){.email}
