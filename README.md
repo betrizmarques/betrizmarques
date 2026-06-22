@@ -4,7 +4,7 @@
 
 Hi there! I'm Bia, and I am passionate about data, technology, mathematics and continuous learning. 
 I am currently focused on data manipulation and data visualization for road safety researches at UFPR. 
-I also participate in a lot of competitions in the statistics field, PET Estatística and research groups.
+I also participate in a lot of competitions in the statistical field, PET Estatística and research groups.
 \
 \
 Here is a little more about me:
